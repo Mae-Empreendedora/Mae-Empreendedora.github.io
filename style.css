@@ -45,6 +45,7 @@ div {
 figcaption {
     font-size: 1.5rem;
     margin-top: 10px;
+
 }
 
 figure {
@@ -106,6 +107,7 @@ img {
     .lojas {
         width: 60px;
         height: 60px;
+        border-radius: 7px;
     }
 
     figcaption {
