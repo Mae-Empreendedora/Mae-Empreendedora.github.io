@@ -115,5 +115,7 @@ img {
 
     figcaption {
         font-size: 1rem;
+    text-decoration: underline;
+    text-decoration-color: darkgreen ;
     }
 }
