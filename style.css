@@ -40,6 +40,7 @@ div {
     max-width: 600px;
     height: auto;
     border-radius: 15px;
+    
 }
 
 figcaption {
@@ -65,10 +66,14 @@ img {
     width: 150px;
     height: 150px;
     margin-right: 10px;
+    transition: .2s all ease-in-out;
 }
 
 .lojas:hover {
-    opacity: 0.9;
+    opacity: 0.78;
+    transform: scale(1.2);
+    
+
 }
 
 #Shopicleslabel {
@@ -115,7 +120,5 @@ img {
 
     figcaption {
         font-size: 1rem;
-    text-decoration: underline;
-    text-decoration-color: darkgreen ;
     }
 }
